@@ -43,40 +43,26 @@ That's it. Detects your installed AI tools and adds the prompt to their global c
 | Windsurf | `~/.codeium/windsurf/memories/global_rules.md` | `.windsurfrules` |
 | Aider | — | `.aider.conventions.md` |
 
-### Installing the Tools
+### Installing for a Specific Tool
 
-AntiBluff works with these AI coding tools. Install whichever ones you use:
-
-**Claude Code** — Anthropic's CLI agent
 ```bash
-npm install -g @anthropic-ai/claude-code
-```
+# Claude Code
+npx antibluff install --tool claude-code
 
-**Cursor** — AI-native code editor
-```
-Download from https://www.cursor.com
-```
+# Cursor
+npx antibluff install --tool cursor
 
-**Gemini CLI** — Google's CLI agent
-```bash
-npm install -g @google/gemini-cli
-```
+# Gemini CLI
+npx antibluff install --tool gemini
 
-**GitHub Copilot** — AI pair programmer (VS Code extension)
-```
-Install "GitHub Copilot" from the VS Code Extensions marketplace
-```
+# GitHub Copilot
+npx antibluff install --tool copilot
 
-**Windsurf** — AI-powered code editor by Codeium
-```
-Download from https://windsurf.com
-```
+# Windsurf
+npx antibluff install --tool windsurf
 
-**Aider** — AI pair programming in your terminal
-```bash
-pip install aider-chat
-# or
-pipx install aider-chat
+# Aider
+npx antibluff install --tool aider
 ```
 
 ## Usage
