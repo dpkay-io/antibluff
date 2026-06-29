@@ -1,3 +1,5 @@
+[![Claude Code](https://img.shields.io/badge/Claude_Code-cc785c)](https://github.com/dpkay-io/antibluff) [![Cursor](https://img.shields.io/badge/Cursor-000000)](https://github.com/dpkay-io/antibluff) [![Windsurf](https://img.shields.io/badge/Windsurf-00C853)](https://github.com/dpkay-io/antibluff) [![platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-blue)](https://github.com/dpkay-io/antibluff) [![License](https://img.shields.io/npm/l/antibluff)](https://github.com/dpkay-io/antibluff) [![productivity](https://img.shields.io/badge/productivity-blue)](https://github.com/dpkay-io/antibluff) [![ai-tools](https://img.shields.io/badge/ai--tools-blueviolet)](https://github.com/dpkay-io/antibluff) [![npm downloads](https://img.shields.io/npm/dt/antibluff)](https://github.com/dpkay-io/antibluff) [![npm version](https://img.shields.io/npm/v/antibluff)](https://github.com/dpkay-io/antibluff) [![node version](https://img.shields.io/node/v/antibluff)](https://github.com/dpkay-io/antibluff)
+
 # AntiBluff
 
 Make AI coding agents honest. Stop hallucinations, assumptions, and unverified claims.

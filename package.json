@@ -1,6 +1,6 @@
 {
   "name": "antibluff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make AI coding agents honest. Stop hallucinations, assumptions, and unverified claims in Claude Code, Cursor, Gemini CLI, GitHub Copilot, Windsurf, and Aider.",
   "main": "src/index.js",
   "bin": {
@@ -24,7 +24,7 @@
     "hallucination",
     "antibluff"
   ],
-  "author": "Deepak Jha <deepakjha.dpk@gmail.com>",
+  "author": "dpkay <hello@dpkay.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
